@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+requests
+pydantic
+python-dotenv
+httpx
+sqlalchemy
+psycopg2-binary
+bcrypt
+argon2-cffi
+python-jose[cryptography]
+python-multipart
+email-validator
+numpy
+chromadb
+scikit-learn
+sentence-transformers

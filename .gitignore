@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+backend/venv/
+ENV/
+env/
+
+# Environment variables
+.env
+backend/.env
+
+# Node / Frontend
+node_modules/
+frontend-react/node_modules/
+frontend-react/dist/
+frontend-react/dist-ssr/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Databases and Vector Stores
+Chatbot_data/chroma_db/
+*.db
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
